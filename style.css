@@ -15,7 +15,7 @@ html {
   width: 100%;
 }
 body{
-  transform: rotate(90deg);
+  transform: rotate(90deg) translateY(-100px);
 }
 #overlayTwo{
   background:black;
